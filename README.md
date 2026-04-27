@@ -2,7 +2,7 @@
 
 🔗 Live Demo: https://modern-responsive-website-rho.vercel.app/
 
-## 🚀 Overview
+##  Overview
 A modern, fully responsive website built using React and TypeScript. Designed with a clean UI, smooth layout, and optimized performance.
 
 ## 🛠 Tech Stack
@@ -11,14 +11,13 @@ A modern, fully responsive website built using React and TypeScript. Designed wi
 - Tailwind CSS
 - Vite
 
-## ✨ Features
+##  Features
 - Responsive design (mobile + desktop)
 - Clean UI/UX
 - Fast performance using Vite
 - Component-based architecture
 
-## 📸 Screenshots
-(Add screenshots here)
+
 
 ## 📂 Project Setup
 ```bash
