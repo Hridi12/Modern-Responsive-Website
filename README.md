@@ -1,25 +1,40 @@
-# Modern Responsive Website
+#  Modern Responsive Website
 
-🔗 Live Demo: https://modern-responsive-website-rho.vercel.app/
+ **Live Demo:** https://modern-responsive-website-rho.vercel.app/  
+ **GitHub Repo:** https://github.com/Hridi12/Modern-Responsive-Website  
+
+---
 
 ##  Overview
-A modern, fully responsive website built using React and TypeScript. Designed with a clean UI, smooth layout, and optimized performance.
+A modern responsive web application built using React and TypeScript, focused on delivering a clean UI and smooth user experience. The project demonstrates component-based architecture, efficient styling with Tailwind CSS, and optimized performance using Vite.
 
-## 🛠 Tech Stack
+---
+
+##  Tech Stack
 - React
 - TypeScript
 - Tailwind CSS
 - Vite
 
+---
+
 ##  Features
-- Responsive design (mobile + desktop)
-- Clean UI/UX
-- Fast performance using Vite
-- Component-based architecture
+- Fully responsive layout (mobile, tablet, desktop)
+- Modular and reusable React components
+- Optimized build and fast load times using Vite
+- Clean and maintainable UI using Tailwind CSS
+- Structured and scalable project architecture
 
 
+## Deployment
+Deployed using Vercel for fast and reliable hosting.
 
-## 📂 Project Setup
+ https://modern-responsive-website-rho.vercel.app/
+
+---
+
+##  Project Setup
+
 ```bash
 npm install
 npm run dev
